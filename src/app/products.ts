@@ -1,17 +1,22 @@
 export const products = [
   {
-    name: 'Phone XL',
+    name: 'iPhone 11 Pro Max',
     price: 799,
     description: 'A large phone with one of the best screens'
   },
   {
-    name: 'Phone Mini',
+    name: 'iPhone 11',
     price: 699,
     description: 'A great phone with one of the best cameras'
   },
   {
-    name: 'Phone Standard',
+    name: 'iPhone 8',
     price: 299,
+    description: ''
+  },
+  {
+    name: 'Xiaomi 8',
+    price: 0,
     description: ''
   }
 ];
